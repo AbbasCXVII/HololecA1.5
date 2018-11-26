@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HololecProject_1.5</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\axaal\Desktop\836158\Project\HololecProject_1.5\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\axaal\Desktop\836158\Project\HololecProject_1.5\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

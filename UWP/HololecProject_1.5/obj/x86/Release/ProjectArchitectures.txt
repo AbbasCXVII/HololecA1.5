@@ -1,0 +1,2 @@
+C:\Users\axaal\Desktop\836158\Project\HololecProject_1.5\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\axaal\Desktop\836158\Project\HololecProject_1.5\UWP\HololecProject_1.5\HololecProject_1.5.csproj;x86
